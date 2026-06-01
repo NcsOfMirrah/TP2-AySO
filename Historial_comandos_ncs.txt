@@ -10,7 +10,7 @@ cat $HOME/.ssh/*.pub
 mkdir repogit
 cd repogit/
 git clone git@github.com:NcsOfMirrah/TP2-AySO.git
-cd TP2_Ayso/
+cd TP2_AySO/
 cd
 lsblk
 apt install lvm2
